@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "PortableVMMirror", "PortableVMMirror\PortableVMMirror.vbproj", "{FBE21D76-0F03-4732-8D52-140E411B7178}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.vbproj", "{1C7098E4-F2E8-446B-B571-ED8738394791}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBE21D76-0F03-4732-8D52-140E411B7178}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBE21D76-0F03-4732-8D52-140E411B7178}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBE21D76-0F03-4732-8D52-140E411B7178}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBE21D76-0F03-4732-8D52-140E411B7178}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C7098E4-F2E8-446B-B571-ED8738394791}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7098E4-F2E8-446B-B571-ED8738394791}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7098E4-F2E8-446B-B571-ED8738394791}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7098E4-F2E8-446B-B571-ED8738394791}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {791C3ED7-D848-46B4-8938-BB1CF9EF630A}
+	EndGlobalSection
+EndGlobal
